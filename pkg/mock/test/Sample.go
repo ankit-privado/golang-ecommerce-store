@@ -15,7 +15,7 @@ type MockAuthRepository struct {
 }
 
 // MockAuthRepositoryMockRecorder is the mock recorder for MockAuthRepository.
-type MockAuthRepositoryMockRecorder struct {
+ MockAuthRepositoryMockRecorder  {
 	mock *MockAuthRepository
 }
 
