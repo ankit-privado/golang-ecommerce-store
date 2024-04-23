@@ -1,4 +1,5 @@
 # eCommerce-smart_gads
+
 Smart Gads
 ==========
 Smart Gads is an eCommerce web application built using Go Gin, PostgreSQL, and RESTful API architecture. It aims to provide an easy and enjoyable shopping experience for customers, as well as a convenient way for merchants to manage their products and orders.
